@@ -3,6 +3,7 @@
 
 ## TABLE OF CONTENTS
 * Description
+* Technologies used
 * Updates
 * Maintainers
 
@@ -12,11 +13,15 @@ Horiseon is a digital marketing company with three specialties:
 2. **Online Reputation Management:** Directing user attention to positive information about your company
 3. **Social Media Marketing:** Spend time on the right platforms and identify new markets
 
-### BENEFITS
+**BENEFITS**
 Customers get a variety of benefits from hiring Horiseon:
 1. **Lead Generation:** Spend less time looking for customers
 2. **Brand Awareness:** Become more visible and recognizable to users
 3. **Cost Management:** Increased visibility equals less money spent on advertising
+
+## TECHNOLOGIES USED
+* HTML
+* CSS
 
 ## UPDATES
 * **08.29.21 Increasing Accessibility**
