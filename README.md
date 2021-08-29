@@ -1,5 +1,5 @@
 # HORISEON - THE DIGITAL MARKETING HUB
-======================================
+=========================================================================
 
 ## TABLE OF CONTENTS
 --------------------
@@ -27,11 +27,11 @@ Customers get a variety of benefits from hiring Horiseon:
 3. **Cost Management:** Increased visibility equals less money spent 
 on advertising
 
-**View the homepage, here:** [Horiseon](https://github.com/GrohTech/horiseon/blob/3b611ed01a001682c2f7032fe72ce5840d0fb3b6/index.html "Horiseon Homepage")
+**View the homepage, here:** [Horiseon](https://grohtech.github.io/horiseon/ "Horiseon Homepage")
 
 **View website screenshots, here:**  
-![Horiseon homepage - top](/assets/images/horiseon-screenshot-1.jpg "Horiseon homepage - top")  
-![Horiseon homepage - bottom](/assets/images/horiseon-screenshot-2.jpg "Horiseon homepage -bottom") 
+![Horiseon homepage - 1](./assets/images/horiseon-screenshot-1.jpg "Horiseon homepage - 1")  
+![Horiseon homepage - 2](./assets/images/horiseon-screenshot-2.jpg "Horiseon homepage -1") 
 
 ## TECHNOLOGIES USED
 --------------------
