@@ -30,8 +30,8 @@ on advertising
 **View the homepage, here:** [Horiseon](https://grohtech.github.io/horiseon/ "Horiseon Homepage")
 
 **View website screenshots, here:**  
-![Horiseon homepage - 1](./assets/images/horiseon-screenshot-1.jpg "Horiseon homepage - 1")  
-![Horiseon homepage - 2](./assets/images/horiseon-screenshot-2.jpg "Horiseon homepage -1") 
+![Horiseon homepage - 1](./assets/images/horiseon-screenshot-1.png "Horiseon homepage - 1")  
+![Horiseon homepage - 2](./assets/images/horiseon-screenshot-2.png "Horiseon homepage -1") 
 
 ## TECHNOLOGIES USED
 --------------------
